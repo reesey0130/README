@@ -20,7 +20,6 @@ My journey in CIS has led me to develop a passion for cybersecurity, and I am no
 | | |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
