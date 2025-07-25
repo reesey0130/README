@@ -12,7 +12,7 @@ My journey in CIS has led me to develop a passion for cybersecurity, and I am no
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ICS Penetration Testing using OSINT tools and Kali Linux | <a href="[https://google.com](https://www.udemy.com/course/practical-ics-pentesting/learn/lecture/36361768#overview)">Detection Lab</a>|
+| ICS Penetration Testing using OSINT tools and Kali Linux | <a href="[https://google.com](https://www.udemy.com/course/practical-ics-pentesting/learn/lecture/36361768#overview)">ICS Pentest Lab</a>|
 | | |
 | | |
 | | |
