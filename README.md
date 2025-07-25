@@ -65,5 +65,4 @@ My journey in CIS has led me to develop a passion for cybersecurity, and I am no
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- ICS Pentest Lab via Udemy
